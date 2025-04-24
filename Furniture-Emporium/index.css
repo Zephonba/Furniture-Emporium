@@ -1,0 +1,52 @@
+body {
+  background-color: rgb(189, 185, 240);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(0, 0, 0);
+  margin: 0;
+  margin-top: -30px;
+  padding: 10px;
+}
+
+.collection {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 1.2rem;
+  margin-top: -20px;
+
+}
+
+.product-card {
+  background-color: rgb(109, 134, 134);
+  padding: 30px;
+  margin-left: 0px;
+  margin-bottom: 40px;
+  border-radius: 12px;
+  max-width: 600px;
+  box-shadow: 0 4px 12px;
+}
+
+.product-card h2 {
+  margin-top: 0;
+  color: #000000;
+}
+
+.price {
+  font-family: Verdana, Geneva, Tahoma, sans-serif
+  font-size 1.8rem;
+  color: green;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.price s {
+  color: #302f2f;
+  margin-left: 12px;
+}
+
+.add-to-cart {
+  background-color: rgb(232, 232, 233);
+  border:
+  width: 100%;
+  font-size: 1rem;
+  font-weight: 600;
+  margin-top: 10px
+}
